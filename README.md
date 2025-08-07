@@ -11,6 +11,11 @@ cd dotfiles
 ./install.sh
 ```
 
+### Change shell
+```
+chsh -s /bin/zsh
+```
+
 # Uninstallation
 
 ### Change to dotfiles folder
@@ -23,7 +28,3 @@ cd ~/dotfiles
 ./uninstall.sh
 ```
 
-### Change shell
-```
-chsh -s /bin/zsh
-```
