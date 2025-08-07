@@ -22,3 +22,8 @@ cd ~/dotfiles
 ```
 ./uninstall.sh
 ```
+
+### Change shell
+```
+chsh -s /bin/zsh
+```
